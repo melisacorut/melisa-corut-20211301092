@@ -203,13 +203,6 @@ footer a{
     color: white;
 }
 
-@media (max-width: 768px) {
-  .col img {
-    max-height: 60vh;  
-    object-fit: contain;
-  }
-}
-
 
 @media screen and (min-width: 800px) {
     
@@ -236,6 +229,7 @@ footer a{
         float: left;
     }
 }
+
 
 
 
