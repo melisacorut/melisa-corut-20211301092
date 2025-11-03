@@ -209,7 +209,8 @@ footer a{
   display: block;
   width: 100%;
   height: auto;
-  max-width: 33%;
+  max-height: 30%;
+  max-width: 100%;
 }
     
 }
@@ -240,6 +241,7 @@ footer a{
         float: left;
     }
 }
+
 
 
 
