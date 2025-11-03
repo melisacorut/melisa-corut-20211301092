@@ -16,7 +16,7 @@ body{
     color: white;
     line-height: 1.5;
     text-align: center;
-    background-color: #333;
+    background-color: #fff;
 }
 
 a{
@@ -236,6 +236,7 @@ footer a{
         float: left;
     }
 }
+
 
 
 
