@@ -113,7 +113,7 @@ header h1{
 
 
 .col img{
-    height: fit-content;
+    height: min-content;
     width: 100%;
 }
 
@@ -229,3 +229,4 @@ footer a{
         float: left;
     }
 }
+
