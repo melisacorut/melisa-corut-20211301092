@@ -203,6 +203,17 @@ footer a{
     color: white;
 }
 
+@media screen and (max-width: 768px) {
+    
+   .col img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+}
+    
+}
+
 
 @media screen and (min-width: 800px) {
     
@@ -229,6 +240,7 @@ footer a{
         float: left;
     }
 }
+
 
 
 
